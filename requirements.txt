@@ -1,0 +1,10 @@
+datasets
+sentence_transformers
+pinecone-client
+cohere
+streamlit
+fastapi
+uvicorn
+PyPDF2
+psutil
+resource
